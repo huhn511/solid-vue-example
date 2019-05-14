@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "solid-auth-client": "^2.3.0",
+    "solid-vue-components": "0.0.4",
     "vue": "^2.6.10"
   },
   "devDependencies": {
